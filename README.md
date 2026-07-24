@@ -5,7 +5,8 @@ This project is an advanced, multi-model ensemble detection system designed to m
 
 It features a fast, lightweight streaming architecture with a modern web dashboard and a highly accurate ensemble of 7 distinct behavioral models ranging from Machine Learning to Physical Invariants.
 
-> **Note:** This project was built autonomously using [Google's Antigravity AI SDK](https://github.com/google/antigravity).
+> [!TIP]
+> **Autonomously Engineered with Antigravity AI:** The entire architecture, data curation, model training pipelines, and real-time dashboard were implemented autonomously using [Google's Antigravity AI SDK](https://github.com/google/antigravity).
 
 ## 🚀 Quick Start (1-Click Install)
 
