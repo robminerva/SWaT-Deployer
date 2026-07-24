@@ -1,0 +1,212 @@
+[
+    {
+        "attack_id": 1,
+        "start_row": 1387098,
+        "end_row": 1388037,
+        "duration": 939
+    },
+    {
+        "attack_id": 2,
+        "start_row": 1388038,
+        "end_row": 1388480,
+        "duration": 442
+    },
+    {
+        "attack_id": 3,
+        "start_row": 1388481,
+        "end_row": 1388863,
+        "duration": 382
+    },
+    {
+        "attack_id": 4,
+        "start_row": 1388864,
+        "end_row": 1389253,
+        "duration": 389
+    },
+    {
+        "attack_id": 5,
+        "start_row": 1389254,
+        "end_row": 1389449,
+        "duration": 195
+    },
+    {
+        "attack_id": 6,
+        "start_row": 1389450,
+        "end_row": 1389878,
+        "duration": 428
+    },
+    {
+        "attack_id": 7,
+        "start_row": 1389879,
+        "end_row": 1390842,
+        "duration": 963
+    },
+    {
+        "attack_id": 8,
+        "start_row": 1390843,
+        "end_row": 1391563,
+        "duration": 720
+    },
+    {
+        "attack_id": 9,
+        "start_row": 1391564,
+        "end_row": 1392284,
+        "duration": 720
+    },
+    {
+        "attack_id": 10,
+        "start_row": 1392285,
+        "end_row": 1392517,
+        "duration": 232
+    },
+    {
+        "attack_id": 11,
+        "start_row": 1392518,
+        "end_row": 1392948,
+        "duration": 430
+    },
+    {
+        "attack_id": 12,
+        "start_row": 1392949,
+        "end_row": 1393224,
+        "duration": 275
+    },
+    {
+        "attack_id": 13,
+        "start_row": 1393225,
+        "end_row": 1393941,
+        "duration": 716
+    },
+    {
+        "attack_id": 14,
+        "start_row": 1393942,
+        "end_row": 1394200,
+        "duration": 258
+    },
+    {
+        "attack_id": 15,
+        "start_row": 1394201,
+        "end_row": 1394595,
+        "duration": 394
+    },
+    {
+        "attack_id": 16,
+        "start_row": 1394596,
+        "end_row": 1395316,
+        "duration": 720
+    },
+    {
+        "attack_id": 17,
+        "start_row": 1395317,
+        "end_row": 1395779,
+        "duration": 462
+    },
+    {
+        "attack_id": 18,
+        "start_row": 1395780,
+        "end_row": 1396476,
+        "duration": 696
+    },
+    {
+        "attack_id": 19,
+        "start_row": 1396477,
+        "end_row": 1396797,
+        "duration": 320
+    },
+    {
+        "attack_id": 20,
+        "start_row": 1396798,
+        "end_row": 1397409,
+        "duration": 611
+    },
+    {
+        "attack_id": 21,
+        "start_row": 1397410,
+        "end_row": 1398854,
+        "duration": 1444
+    },
+    {
+        "attack_id": 22,
+        "start_row": 1398855,
+        "end_row": 1434754,
+        "duration": 35899
+    },
+    {
+        "attack_id": 23,
+        "start_row": 1434755,
+        "end_row": 1434875,
+        "duration": 120
+    },
+    {
+        "attack_id": 24,
+        "start_row": 1434876,
+        "end_row": 1436046,
+        "duration": 1170
+    },
+    {
+        "attack_id": 25,
+        "start_row": 1436047,
+        "end_row": 1436413,
+        "duration": 366
+    },
+    {
+        "attack_id": 26,
+        "start_row": 1436414,
+        "end_row": 1437014,
+        "duration": 600
+    },
+    {
+        "attack_id": 27,
+        "start_row": 1437015,
+        "end_row": 1437458,
+        "duration": 443
+    },
+    {
+        "attack_id": 28,
+        "start_row": 1437459,
+        "end_row": 1437559,
+        "duration": 100
+    },
+    {
+        "attack_id": 29,
+        "start_row": 1437560,
+        "end_row": 1438040,
+        "duration": 480
+    },
+    {
+        "attack_id": 30,
+        "start_row": 1438041,
+        "end_row": 1438580,
+        "duration": 539
+    },
+    {
+        "attack_id": 31,
+        "start_row": 1438581,
+        "end_row": 1439049,
+        "duration": 468
+    },
+    {
+        "attack_id": 32,
+        "start_row": 1439050,
+        "end_row": 1439330,
+        "duration": 280
+    },
+    {
+        "attack_id": 33,
+        "start_row": 1439331,
+        "end_row": 1439731,
+        "duration": 400
+    },
+    {
+        "attack_id": 34,
+        "start_row": 1439732,
+        "end_row": 1440028,
+        "duration": 296
+    },
+    {
+        "attack_id": 35,
+        "start_row": 1440029,
+        "end_row": 1441718,
+        "duration": 1689
+    }
+]
