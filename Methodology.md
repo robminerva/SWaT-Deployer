@@ -9,6 +9,7 @@ The goal of this project is to accurately detect cyber-physical attacks on an in
 The project relies on the widely recognized SWaT dataset (2015), which contains 11 days of continuous operation (7 days normal, 4 days under attack). 
 The data underwent strict curation:
 - **Deduplication:** Repeated identical states were compressed into unique transition records to drastically reduce model bloat while preserving causality.
+- **Temporal Gap Injection:** Artificial `GAP` tokens were introduced to explicitly confine and make visible all breaks in the timeseries and temporal jumps. This prevents models from falsely associating events that occurred hours or days apart.
 - **Discretization:** Continuous water level sensors and flow meters were discretized into operational bins (e.g., `Low`, `Nominal`, `High`, `Critical`) using the official plant specifications (e.g., MV101 thresholds for LIT101).
 
 The curated, deduplicated dataset is available publicly on Hugging Face at `minervar/SWaT-Curated`.
